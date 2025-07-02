@@ -1,2 +1,0 @@
-Hello, Python!
-Learning filr handling in Python.
